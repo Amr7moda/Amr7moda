@@ -19,7 +19,7 @@
 
 **It's your turn to move! Choose one from the following table**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=100&lines=Hello+World+%F0%9F%91%8B%2C+I'm+Amr+Hamouda+a+junior+Backend+Web+Developer;+alway+striving+to+take+experience+and+learn+new+tech+and+every+new+project+I+have+done)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=100&lines=<h1>Hello+World</h1>+%F0%9F%91%8B%2C+I'm+Amr+Hamouda+a+junior+Backend+Web+Developer;and+always+striving+to+take+experience;and+learn+new+tech+and+every+new+project+I+have+done)](https://git.io/typing-svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Amr7moda&label=Profile%20views&color=0e75b6&style=flat" alt="Amr7moda" />
  </p>
