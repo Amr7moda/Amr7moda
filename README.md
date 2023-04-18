@@ -1,38 +1,6 @@
 <img src='https://github.com/Amr7moda/Amr7moda/blob/main/img/dino.gif' style='width: 100%' />
 <!-- <img src='https://img.freepik.com/free-vector/telescope-science-discovery-watching-stars-planets-outer-space_107791-4920.jpg?w=1380&t=st=1663079216~exp=1663079816~hmac=6d470505fc96a59bb799ea0ac423b6156ee61a08756df9cbf0c3c7b789b9bfa2' style='width: 100%; object-fit:cover; ' /> -->
 
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@Amr7moda 
-marcizhu
-/
-marcizhu
-Public
-generated from marcizhu/readme-chess
-Fork your own copy of marcizhu/marcizhu
-Code
-Issues
-Pull requests
-Actions
-Security
-Insights
-Beta Try the new code view
-marcizhu/README.md
-@github-actions
-github-actions Chess: Move H3 to E6 by Murdeala
-Latest commit 04a7ba1 7 hours ago
- History
- 2 contributors
-@github-actions@marcizhu
-75 lines (59 sloc)  5.52 KB
- 
-
 # Amr's Open Chess Tournament
 
 <!-- BEGIN CHESS BOARD -->
@@ -52,9 +20,7 @@ Latest commit 04a7ba1 7 hours ago
 **It's your turn to move! Choose one from the following table**
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=100&lines=Hello+World+%F0%9F%91%8B%2C+I'm+Amr+Hamouda; unior+Backend+Web+Developer+and+alway+striving+to+take+experience+and+learn+new+tech+and+every+new+project+I+have+done)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Mamdouh;A+passionate+frontend+developer+looking+for+learn+a+new+technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=100&lines=Hello+World+%F0%9F%91%8B%2C+I'm+Amr+Hamouda;unior+Backend+Web+Developer+and+alway+striving+to+take+experience+and+learn+new+tech+and+every+new+project+I+have+done)](https://git.io/typing-svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Amr7moda&label=Profile%20views&color=0e75b6&style=flat" alt="Amr7moda" />
  </p>
