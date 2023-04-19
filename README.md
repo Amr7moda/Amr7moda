@@ -18,6 +18,7 @@
 <!-- END CHESS BOARD -->
 
 **It's your turn to move! Choose one from the following table**
+**CHECK!** Choose your move wisely!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=100&lines=<h1>Hello+World</h1>+%F0%9F%91%8B%2C+I'm+Amr+Hamouda+a+junior+Backend+Web+Developer;+always+striving+to+take+experience;and+learn+new+techn+in+every+new+project)](https://git.io/typing-svg)
 
