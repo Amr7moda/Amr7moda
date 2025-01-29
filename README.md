@@ -1,7 +1,7 @@
 <img src='https://github.com/Amr7moda/Amr7moda/blob/main/img/dino.gif' style='width: 100%' />
 <!-- <img src='https://img.freepik.com/free-vector/telescope-science-discovery-watching-stars-planets-outer-space_107791-4920.jpg?w=1380&t=st=1663079216~exp=1663079816~hmac=6d470505fc96a59bb799ea0ac423b6156ee61a08756df9cbf0c3c7b789b9bfa2' style='width: 100%; object-fit:cover; ' /> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=100&lines=<h1>Hello+World</h1>+%F0%9F%91%8B%2C+I'm+Amr+Hamouda+a+junior+Backend+Web+Developer;+always+striving+to+take+experience;and+learn+new+techn+in+every+new+project)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=100&lines=<h1>Hello+World</h1>+%F0%9F%91%8B%2C+I'm+Amr+Hamouda+Fullstack+Web+Developer;+always+striving+to+take+experience;and+learn+new+techn+in+every+new+project)](https://git.io/typing-svg)
 
 # Amr's Open Chess Tournament
 
